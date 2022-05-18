@@ -28,4 +28,5 @@ composer install
 * I generate 100000 suppliers example for testing using faker.
 * File export using stream write/read. Memory usage is very low.
 * Basicly use grid view, no extension or custom widgets added.
-* @todo Waiting for put this on a server.
+* http://104.237.152.114/ 
+↑ Can be access from here.
